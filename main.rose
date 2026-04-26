@@ -4,4 +4,4 @@ main_text_ru = Нажмите на мод, чтобы узнать больше
 main_text_tr = Hakkında daha fazla bilgi edinmek istediğiniz moda tıklayın
 
 [features]
-features = ['speed_hack.rose', 'chat_spoofer.rose' ]
+features = [ 'test.rose' ]
