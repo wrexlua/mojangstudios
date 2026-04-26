@@ -1,0 +1,13 @@
+[mod]
+mod_title = Test
+mod_title_ru = тест
+mod_title_tr = Deneme
+
+mod_description = Just a test.
+mod_description_ru = просто тест.
+mod_description_tr = Sadece bir deneme.
+
+tags = ['ALPHA', 'COMBAT', 'MOVEMENT', 'VISUAL', 'PLAYER']
+misc = ['PLAYERBird']
+videos = ['https://example.com/1']
+photos = ['https://example.com/1']
